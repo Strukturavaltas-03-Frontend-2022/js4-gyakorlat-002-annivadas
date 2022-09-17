@@ -1,4 +1,4 @@
-/**
+/** 
  * The state of users
  * @constant
  * @type {Object}
