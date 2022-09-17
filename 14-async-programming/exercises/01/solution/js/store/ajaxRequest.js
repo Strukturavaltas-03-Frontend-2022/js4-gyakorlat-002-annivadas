@@ -1,5 +1,5 @@
 /**
- * The state of request
+ * The state of request 
  * @constant
  * @type {Object}
  * @property {number} delay         - the delay in milisec beetween two retry
